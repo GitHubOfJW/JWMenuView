@@ -4,7 +4,7 @@
 
 ## 展示效果
 
-![2016-12-28 14.05.50-w314](https://github.com/GitHubOfJW/JWMenuView/blob/master/Introduce/2016-12-28%2014.05.50.gif)
+![2016-12-28 14.05.50-w314](https://github.com/GitHubOfJW/JWMenuView/blob/master/Introduce/introduce.gif)
 
 ## 头文件
 
